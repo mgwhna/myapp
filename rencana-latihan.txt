@@ -1,5 +1,7 @@
 RENCANA LATIHAN
 - Javascrip
+  * ES6
+  * Framework Javascript
 - PHP Framework
 - Interview
 - Vlogs
